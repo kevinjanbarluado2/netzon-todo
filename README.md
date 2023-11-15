@@ -17,8 +17,8 @@ Ensure that you have the following tools installed on your machine:
 
 Clone the assessment test repository and navigate into the project directory:
 
-`git clone https://github.com/kevinjanbarluado2/netzon-todo.git`
-`cd netzon-todo`
+- `git clone https://github.com/kevinjanbarluado2/netzon-todo.git`
+- `cd netzon-todo`
 
 ### Run Docker Compose
 
