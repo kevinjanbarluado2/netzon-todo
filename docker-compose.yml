@@ -1,0 +1,9 @@
+version: '3'
+services:
+  todo-app-kevinjanbarluado:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./src:/app/src
+    command: [ "npm", "run", "dev", "--host", "0.0.0.0" ]
